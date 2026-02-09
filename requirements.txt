@@ -2,3 +2,4 @@ flask
 requests
 user_agent
 gunicorn
+flask-cors
